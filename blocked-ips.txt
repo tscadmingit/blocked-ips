@@ -1,5 +1,5 @@
-# Blocklist updated: 2025-09-25 — defensive blocklist
-# Use one IP or CIDR per line
+# Blocklist updated: 2025-09-25 
+# Use one IP's only per line
 
 # IP addresses
 23.94.54.125
@@ -45,6 +45,3 @@
 194.33.45.194
 206.168.190.143
 207.188.6.17
-
-# CIDR ranges
-45.86.208.0/22
